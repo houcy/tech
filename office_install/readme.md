@@ -39,11 +39,13 @@ Office 官方各版本下载地址：
 office2007注册码：`CM3XM-QHTF3-CGTMV-3MX9R-6T938`
 
 其他版本使用破解工具，下载地址：
-https://eyun.baidu.com/s/3dEWdQVZ
+百度云： https://eyun.baidu.com/s/3dEWdQVZ  
+github： 
+
 下载Portable版，解压后管理员权限运行AutoPico.exe即可。
 > 破解工具介绍：https://www.appcgn.com/kmspico.html
 
-内网可以如下操作使用：
+###内网可以如下操作使用
 OA电脑用IE访问 `http://10.61.214.72` ，在【常用软件】中可以找到（卸载Office2003.msi，卸载Office2007.msi，卸载Office2010.msi），
 在【Office安装包】中可以下载个版本office。
 
