@@ -32,7 +32,7 @@ Microsoft Word 2016 (KB4011222) 64-Bit Edition
 ### Office 官方各版本下载地址
 https://msdn.itellyou.cn/  
 http://www.msdn.hk/  
-左侧选择【应用程序】选择`office版本`，右侧选择`语言`和`版本`，点击后可看见ed2k（电驴）的下载链接，建议使用迅雷软件，p2p下载比较快。
+进入上面的链接：左侧选择【应用程序】选择`office版本`，右侧选择`语言`和`版本`，点击后可看见ed2k（电驴）的下载链接，建议使用迅雷软件，p2p下载比较快。
 office2007注册码：`CM3XM-QHTF3-CGTMV-3MX9R-6T938`  
 其他版本使用破解工具，下载地址：
 百度云： https://eyun.baidu.com/s/3dEWdQVZ    
