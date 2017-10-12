@@ -1,10 +1,7 @@
 ## CVE-2017-11826 | Microsoft Office 内存损坏漏洞
-官方补丁介绍及下载地址：
-
-英文： <https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-11826>
-
+官方补丁介绍及下载地址：  
+英文： <https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-11826>  
 中文： <https://portal.msrc.microsoft.com/zh-cn/security-guidance/advisory/CVE-2017-11826>
-
 
 补丁包下载：（建议从官方下载，不要使用他人转发的文件，防止篡改）
 
@@ -32,27 +29,23 @@ Microsoft Word 2016 (KB4011222) 32-Bit Editio
 Microsoft Word 2016 (KB4011222) 64-Bit Edition
 <https://download.microsoft.com/download/A/B/6/AB6A6FD5-095C-4011-9EFB-A04B4140FF48/word2016-kb4011222-fullfile-x64-glb.exe>
 
-Office 官方各版本下载地址：
-<https://msdn.itellyou.cn/>
-或者<http://www.msdn.hk/>
+### Office 官方各版本下载地址
+<https://msdn.itellyou.cn/>  
+<http://www.msdn.hk/>  
 左侧选择【应用程序】选择`office版本`，右侧选择`语言`和`版本`，点击后可看见ed2k（电驴）的下载链接，建议使用迅雷软件，p2p下载比较快。
-office2007注册码：`CM3XM-QHTF3-CGTMV-3MX9R-6T938`
-
+office2007注册码：`CM3XM-QHTF3-CGTMV-3MX9R-6T938`  
 其他版本使用破解工具，下载地址：
-百度云： https://eyun.baidu.com/s/3dEWdQVZ  
-github： 
-
-下载Portable版，解压后管理员权限运行AutoPico.exe即可。
+百度云： https://eyun.baidu.com/s/3dEWdQVZ    
+下载Portable版，解压后管理员权限运行AutoPico.exe即可。  
 > 破解工具介绍：https://www.appcgn.com/kmspico.html
 
-###内网可以如下操作使用
-OA电脑用IE访问 `http://10.61.214.72` ，在【常用软件】中可以找到（卸载Office2003.msi，卸载Office2007.msi，卸载Office2010.msi），
-在【Office安装包】中可以下载个版本office。
-
+### 内网可以如下操作使用
+OA电脑用IE访问 `http://10.61.214.72` ，在【常用软件】中可以找到  
+（卸载Office2003.msi，卸载Office2007.msi，卸载Office2010.msi）  
+在【Office安装包】中可以下载个版本office。  
 其中office2007免激活，2010,2013,2016在安装后使用
 
-激活工具，解压下载的`KMSpico_v10.1.6Portable`，管理员权限运行`Auto (Run as Admin).cmd`即可。前提需要电脑安装`.net4.0`框架。
-
+激活工具，解压下载的`KMSpico_v10.1.6Portable`，管理员权限运行`Auto (Run as Admin).cmd`即可。前提需要电脑安装`.net4.0`框架。  
 `.net4.0`下载地址，可以在【常用软件】中找到：`doNetFx_4.0_Full_x86_x64.exe`。
 
 
