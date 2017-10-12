@@ -38,6 +38,7 @@ office2007注册码：`CM3XM-QHTF3-CGTMV-3MX9R-6T938`
 百度云： https://eyun.baidu.com/s/3dEWdQVZ    
 下载Portable版，解压后管理员权限运行`AutoPico.exe`即可。（运行需.net4.0以上）  
 > 破解工具介绍：<https://www.appcgn.com/kmspico.html>  
+
 ### .NET官方下载：  
 <https://www.microsoft.com/net/download/framework>
 
